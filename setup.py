@@ -19,7 +19,7 @@ install_requires = [
 
 setup(
     name="torch_pdegraph",
-    version="1.0.0",
+    version="1.1.1",
     description="Running paritial difference equations (PDEs) on graphs",
     long_description=README,
     long_description_content_type="text/markdown",
