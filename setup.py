@@ -9,17 +9,15 @@ install_requires = [
     'numpy',
     'mnist',
     'tqdm',
-    'scipy',
     'scikit-learn',
     'scikit-image',
     'matplotlib',
-    'opencv-python',
     'open3d-python',
 ]
 
 setup(
     name="torch_pdegraph",
-    version="1.1.1",
+    version="1.1.2",
     description="Running paritial difference equations (PDEs) on graphs",
     long_description=README,
     long_description_content_type="text/markdown",
