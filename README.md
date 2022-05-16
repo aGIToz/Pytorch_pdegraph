@@ -1,7 +1,6 @@
 # Torch_pdegraph
-Torch_pdegraph is a proof of concept that how one can solve PDEs (partial difference equations)  on graphs using the Message Passing class of torch_geometric and hence also benefits from the hardware acceleration. See the [video-presentation](https://www.youtube.com/watch?v=egUjPrJa2l4)
+Torch_pdegraph is a proof of concept that how one can solve PDEs (partial difference equations)  on graphs using the Message Passing class of torch_geometric and hence also benefits from the hardware acceleration.
 
-## What is a PDE on a graph?
 The basic idea is that one can define the operators like, derivatives, gradients, laplacians on graphs and construct a PDE inspired from nature on graphs.
 To know more about PDEs on graph.
 - See the publications of [Elmoataz](https://elmoatazbill.users.greyc.fr/pub.html). 
