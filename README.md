@@ -3,9 +3,6 @@ Torch_pdegraph is a proof of concept that how one can solve PDEs (partial differ
 
 The basic idea is that one can define the operators like, derivatives, gradients, laplacians on graphs and construct a PDE inspired from nature on graphs.
 To know more about PDEs on graph.
-- See the publications of [Elmoataz](https://elmoatazbill.users.greyc.fr/pub.html). 
-- See also their [applications on pointclouds](https://elmoatazbill.users.greyc.fr/point_cloud/index.html)
-- Classical PDEs on images by [Guillermo Sapiro](https://www.youtube.com/watch?v=ZAmig8cw7H8&list=PLEE9b2lRB-R0vii_n3A_3ec9F_Bp_U9Fh&index=2&t=3s)
 - Be sure to play with the **jupyter-notebooks in the applications/** folder which presents few of their applications. Download the [data](https://drive.google.com/file/d/1I3IRe1HSoOyh5gBU-cGtLtATWboRMT3-/view?usp=sharing)
 - Ref to operator_calculus.md for a brisk intro to calculus on graphs.
 
